@@ -1,2 +1,4 @@
 # SDM
-Social Distance Monitoring app using Flutter
+A Social Distance Monitoring app using Flutter.
+SDM works on both camera and bluetooth to maintain social distancing norms.
+
