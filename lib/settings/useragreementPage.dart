@@ -36,7 +36,7 @@ class useragreementPage extends StatelessWidget {
             Container(
                 padding: EdgeInsets.fromLTRB(15.0,4.0,12.0,4.0),
                 child: Text(
-                  "SDM - Social Distance Monitor is developed by Equinox Group for Social Distance Monitoring using Bluetooth and Camera.",
+                  "SDM - Social Distance Monitor is developed by Gowthamaan for Social Distance Monitoring using Bluetooth and Camera.",
                   textAlign: TextAlign.justify,
                   style: TextStyle(
                     fontWeight: FontWeight.normal,
