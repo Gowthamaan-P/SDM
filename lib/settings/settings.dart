@@ -45,7 +45,7 @@ class Settings extends StatelessWidget {
         Container(
             padding: EdgeInsets.fromLTRB(15.0,4.0,4.0,4.0),
             child: Text(
-              "Equinox",
+              "Gowthamaan",
               style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 20.0
@@ -65,7 +65,7 @@ class Settings extends StatelessWidget {
         Container(
             padding: EdgeInsets.fromLTRB(15.0,4.0,4.0,4.0),
             child: Text(
-              "equinoxgroup258.com",
+              "ravigowthamaan@gmail.com",
               style: TextStyle(
                   fontWeight: FontWeight.normal,
                   color: Colors.indigo[400]
